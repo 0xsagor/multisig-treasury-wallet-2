@@ -1,0 +1,12 @@
+{
+  "name": "multisig-treasury-wallet",
+  "version": "1.0.0",
+  "description": "Multi-signature smart contract for team treasury management",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "dependencies": {
+    "hardhat": "^2.19.1",
+    "ethers": "^6.10.0"
+  }
+}
